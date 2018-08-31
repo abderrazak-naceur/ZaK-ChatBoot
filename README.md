@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Simple Chatbot
 
 <a href="https://travis-ci.org/LucasBassetti/react-simple-chatbot"><img src="https://travis-ci.org/LucasBassetti/react-simple-chatbot.svg?branch=master" alt="Travis CI" /></a> <a href="https://badge.fury.io/js/react-simple-chatbot"><img src="https://badge.fury.io/js/react-simple-chatbot.svg" alt="npm version"></a>
@@ -77,3 +78,6 @@ If you liked this project, you can donate to support it :heart:
 ## License
 
 MIT · [Lucas Bassetti](http://lucasbassetti.com.br)
+=======
+Test ZAk
+>>>>>>> 7fd06c7b05be9743593096f6f3975dbc5d742db0
