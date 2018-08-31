@@ -18,9 +18,9 @@ Copyright (C) Microsoft Corporation. All rights reserved.
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.30319</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{471f585f-6ed4-447f-930d-9f7eaf8216fa}</ProjectGuid>
+    <ProjectGuid>{d463bd0f-2f8c-44c3-934f-48556553cd13}</ProjectGuid>
     <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
-    <SourceWebVirtualPath>/react-simple-chatbot-master</SourceWebVirtualPath>
+    <SourceWebVirtualPath>/react-airbnb-boilerplate-master</SourceWebVirtualPath>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <SourceWebProject></SourceWebProject>
     <SourceWebMetabasePath></SourceWebMetabasePath>
